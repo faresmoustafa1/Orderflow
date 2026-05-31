@@ -161,8 +161,8 @@ Deployed the full application to **Azure App Service** — configured the produc
 
 | Role | Contributor |
 |---|---|
-| **Backend Development** | [Your Name](https://github.com/your-username) |
-| **Frontend Development** | [Iman](https://github.com/iman-username) |
+| **Backend Development** | [Fares](https://github.com/faresmoustafa1) |
+| **Frontend Development** | [Eman](https://github.com/eman383) |
 
 ---
 
