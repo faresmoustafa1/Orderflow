@@ -21,7 +21,7 @@ OrderFlow is a multi-tenant order management system built specifically for home-
 
 
 
-https://github.com/faresmoustafa1/orderflow/store.mp4
+[https://github.com/faresmoustafa1/orderflow/store.mp4](https://github.com/faresmoustafa1/Orderflow/blob/main/store.mp4)
 
 
 
