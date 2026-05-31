@@ -46,6 +46,14 @@ OrderFlow is a multi-tenant order management system built specifically for home-
     <td><img src="assests/Menu-Package.png" width="600"></td>
     <td><img src="assests/Menu-Item.png" width="600"></td>
   </tr>
+  <tr>
+    <th align="center">Schedule</th>
+    <th align="center">Store</th>
+  </tr>
+  <tr>
+    <td><img src="assests/Schedule.png" width="600"></td>
+    <td><img src="assests/Store.png" width="600"></td>
+  </tr>
 </table>
 
 | Schedule | Store |
