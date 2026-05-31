@@ -31,7 +31,7 @@ OrderFlow is a multi-tenant order management system built specifically for home-
 
 | Dashboard | Storefront |
 |---|---|
-| ![Dashboard](assests/dashboard.png) | ![Storefront]([assests/store.png](https://github.com/faresmoustafa1/Orderflow/blob/main/assests/store.png)) |
+| ![Dashboard](assests/login.png) | ![Storefront]([assests/store.png](https://github.com/faresmoustafa1/Orderflow/blob/main/assests/store.png)) |
 
 | Finance | Menu Management |
 |---|---|
