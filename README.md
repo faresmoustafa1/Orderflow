@@ -2,7 +2,7 @@
 
 > A SaaS platform for home-based food businesses and cloud kitchens to manage orders, track revenue, and serve customers — all through a branded online storefront.
 
-###  [Live Demo → orderflow-cncscth4fncpe5g3.francecentral-01.azurewebsites.net](https://orderflow-cncscth4fncpe5g3.francecentral-01.azurewebsites.net)
+###  [Live Demo → https://dub.sh/orderfloow)
 
 >  A custom domain is coming soon.
 
