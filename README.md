@@ -4,11 +4,8 @@
 
 ###  [Live Demo → https://orderfloweg.com)
 
->  A custom domain is coming soon.
-
 >  To explore a storefront and place a test order, sign up for an account and visit:
-> `https://orderflow-cncscth4fncpe5g3.francecentral-01.azurewebsites.net/store/your-username`
-
+https://orderfloweg.com/store/"store-username"
 ---
 
 ##  Overview
