@@ -2,7 +2,7 @@
 
 > A SaaS platform for home-based food businesses and cloud kitchens to manage orders, track revenue, and serve customers — all through a branded online storefront.
 
-###  [Live Demo → https://dub.sh/orderfloow)
+###  [Live Demo → https://orderfloweg.com)
 
 >  A custom domain is coming soon.
 
@@ -166,14 +166,3 @@ Deployed the full application to **Azure App Service** — configured the produc
 
 ---
 
-##  Roadmap
-
-- [ ] Password hashing (bcrypt)
-- [ ] Database migrations with Alembic
-- [ ] Mobile responsive design improvements
-- [ ] WhatsApp integration
-- [ ] Push notifications for new orders
-- [ ] Customer order history portal
-- [ ] Pagination on history and order lists
-- [ ] Custom domain
-- [ ] PostgreSQL support for production deployment
